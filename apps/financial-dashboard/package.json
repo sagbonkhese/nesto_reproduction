@@ -63,7 +63,7 @@
     "react-is": "^18.3.1",
     "react-use-clipboard": "^1.0.9",
     "sanitize-html": "^2.13.0",
-    "zod": "3.23.8"
+    "zod": "3.25.76"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.3.1",
